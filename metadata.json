@@ -1,0 +1,5 @@
+{
+  "name": "My image and voice generator",
+  "description": "An application that uses the Gemini API to generate images from text prompts and synthesize speech from text with a choice of voices.",
+  "requestFramePermissions": []
+}
